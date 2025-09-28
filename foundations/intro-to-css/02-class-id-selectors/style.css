@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd_number{
+   background-color: rgb(223, 140, 154);
+   font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.three{
+    font-size: 24px;
+}
+
+#ntwo{
+    color: rgb(5, 5, 216);
+    font-size: 36px;
+}
+
+#nfour{
+    background-color: rgb(8, 197, 18);
+    font-size: 24px;
+    font-weight: 100;
+}
